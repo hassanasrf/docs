@@ -33,7 +33,7 @@ For more information on exactly how {% data variables.product.prodname_codespace
 
 ## Running the application
 
-Once your codespace is created, your repository will be automatically cloned into it. Now you can run the application and launch it in a browser.
+###### Once your codespace is created, your repository will be automatically cloned into it. Now you can run the application and launch it in a browser.
 
 1. Since this example uses a Node.js project, start the application by entering `npm run dev` in the terminal. This command executes the `dev` script in the package.json file and starts up the web application defined in the sample repository.
    
